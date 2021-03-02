@@ -1,16 +1,8 @@
 # TeslaNews
 
-A new Flutter project.
+It was a challange to complete an news app in 2hours but i did it.
 
-## Getting Started
+![WhatsApp Image 2021-03-02 at 06 08 35 (2)](https://user-images.githubusercontent.com/48128175/109579117-53cb4d80-7b1e-11eb-835d-7f98370a57c7.jpeg)
+![WhatsApp Image 2021-03-02 at 06 15 23 (1)](https://user-images.githubusercontent.com/48128175/109579355-c0464c80-7b1e-11eb-8d93-e18b5b318c42.jpeg)
+![WhatsApp Image 2021-03-02 at 06 15 23](https://user-images.githubusercontent.com/48128175/109579358-c1777980-7b1e-11eb-80c0-04993e6c3222.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
